@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TD1</string>
+    <string name="change_text">Change Text</string>
+    <string name="change_color">Change Color</string>
+    <string name="change_size">Change Size</string>
+    <string name="main_text">Sample Text</string>
+    <string name="enter_text_hint">Enter new text</string>
+    <string name="enter_size_hint">Enter new text size</string>
+</resources>
